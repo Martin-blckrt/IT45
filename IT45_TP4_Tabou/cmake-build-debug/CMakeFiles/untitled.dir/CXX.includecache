@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marti/CLionProjects/IT45_TP4_Tabou/src/random.h
+stdlib.h
+-
+time.h
+-
+
+C:/Users/marti/CLionProjects/IT45_TP4_Tabou/src/rechercheTabou.cpp
+rechercheTabou.h
+C:/Users/marti/CLionProjects/IT45_TP4_Tabou/src/rechercheTabou.h
+
+C:/Users/marti/CLionProjects/IT45_TP4_Tabou/src/rechercheTabou.h
+math.h
+-
+stdio.h
+-
+iostream
+-
+fstream
+-
+math.h
+-
+stdio.h
+-
+random.h
+C:/Users/marti/CLionProjects/IT45_TP4_Tabou/src/random.h
+solution.h
+C:/Users/marti/CLionProjects/IT45_TP4_Tabou/src/solution.h
+
+C:/Users/marti/CLionProjects/IT45_TP4_Tabou/src/solution.h
+math.h
+-
+stdio.h
+-
+iostream
+-
+random.h
+C:/Users/marti/CLionProjects/IT45_TP4_Tabou/src/random.h
+
